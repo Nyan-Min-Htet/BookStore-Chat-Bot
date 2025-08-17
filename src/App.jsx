@@ -27,7 +27,7 @@ Language:
 const DEFAULT_MODEL = "deepseek/deepseek-r1-0528:free";
 
 const apiKey =
-  "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";
+  "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";
 
 export default function BookstoreChat() {
   const [messages, setMessages] = useState([
